@@ -1,0 +1,12 @@
+[ 2016-10-28T23:09:33+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=nbaNews
+ERR: 参数错误或者未定义:team
+
+[ 2016-10-28T23:09:43+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=nbaNews?%E5%8B%87%E5%A3%AB
+ERR: 非法操作:nbaNews?勇士
+
+[ 2016-10-28T23:09:50+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=nbaNews?team=%E5%8B%87%E5%A3%AB
+ERR: 非法操作:nbaNews?team=勇士
+
+[ 2016-10-28T23:10:00+08:00 ] 101.226.65.105 /weixin/index.php?m=Home&c=Index&a=nbaNews?team=????��?
+ERR: 非法操作:nbaNews?team=????��?
+

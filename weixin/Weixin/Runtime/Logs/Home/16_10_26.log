@@ -1,0 +1,54 @@
+[ 2016-10-26T20:09:55+08:00 ] 182.254.86.157 /weixin/index.php?m=Home&c=Index&a=index&signature=518d7c008f35591145abfc68b41502dec7d23c88&timestamp=1477483795&nonce=610350724&openid=oqX_RwqsBaEMcBVjwE75KI-H81aE
+ERR: syntax error, unexpected '$indexModel' (T_VARIABLE)
+
+[ 2016-10-26T20:10:16+08:00 ] 182.254.86.142 /weixin/index.php?m=Home&c=Index&a=index&signature=98f3cb8102e50638d84fa856530bae4803dff3d5&timestamp=1477483816&nonce=578364926&openid=oqX_RwqsBaEMcBVjwE75KI-H81aE
+ERR: syntax error, unexpected '$indexModel' (T_VARIABLE)
+
+[ 2016-10-26T20:10:27+08:00 ] 182.254.86.152 /weixin/index.php?m=Home&c=Index&a=index&signature=634a578681ccbbd02890aa327cb31821a7ebb680&timestamp=1477483827&nonce=1872343211&openid=oqX_RwqsBaEMcBVjwE75KI-H81aE
+ERR: syntax error, unexpected '$indexModel' (T_VARIABLE)
+
+[ 2016-10-26T20:10:49+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=getQrCode
+ERR: syntax error, unexpected '$indexModel' (T_VARIABLE)
+
+[ 2016-10-26T21:01:30+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=getQrCode
+ERR: syntax error, unexpected '.2000' (T_DNUMBER)
+
+[ 2016-10-26T21:01:58+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=getQrCode
+ERR: syntax error, unexpected '.2000' (T_DNUMBER)
+
+[ 2016-10-26T21:02:00+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=getQrCode
+ERR: syntax error, unexpected '.2000' (T_DNUMBER)
+
+[ 2016-10-26T21:33:00+08:00 ] 182.254.86.142 /weixin/index.php?m=Home&c=Index&a=index&signature=896f229766b7bedceef1db5bfe3beb9ff595f191&timestamp=1477488780&nonce=1233736176&openid=oqX_RwqsBaEMcBVjwE75KI-H81aE
+ERR: syntax error, unexpected 'if' (T_IF)
+
+[ 2016-10-26T21:33:08+08:00 ] 182.254.86.147 /weixin/index.php?m=Home&c=Index&a=index&signature=35d2590788f9fa9ed6d35c8b9deaeed0b9b17a0c&timestamp=1477488788&nonce=486334175&openid=oqX_RwqsBaEMcBVjwE75KI-H81aE
+ERR: syntax error, unexpected 'if' (T_IF)
+
+[ 2016-10-26T21:33:17+08:00 ] 182.254.86.142 /weixin/index.php?m=Home&c=Index&a=index&signature=966cc4ba4776cc72463ee4fa13466cb65bcc1b2c&timestamp=1477488797&nonce=659087429&openid=oqX_RwqsBaEMcBVjwE75KI-H81aE
+ERR: syntax error, unexpected 'if' (T_IF)
+
+[ 2016-10-26T21:33:43+08:00 ] 182.254.86.152 /weixin/index.php?m=Home&c=Index&a=index&signature=ba1b3aff695efeab43e0c4cbcc81b0e262353b1d&timestamp=1477488823&nonce=340095827&openid=oqX_RwqsBaEMcBVjwE75KI-H81aE
+ERR: syntax error, unexpected 'if' (T_IF)
+
+[ 2016-10-26T21:33:58+08:00 ] 182.254.86.142 /weixin/index.php?m=Home&c=Index&a=index&signature=4c748fee7672eec2407849d45f9a5593487410c1&timestamp=1477488838&nonce=1472674179&openid=oqX_RwqsBaEMcBVjwE75KI-H81aE
+ERR: syntax error, unexpected 'if' (T_IF)
+
+[ 2016-10-26T21:34:03+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=getQrCode
+ERR: syntax error, unexpected 'if' (T_IF)
+
+[ 2016-10-26T21:34:25+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=getQrCode
+ERR: syntax error, unexpected 'if' (T_IF)
+
+[ 2016-10-26T21:34:26+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=getQrCode
+ERR: syntax error, unexpected 'if' (T_IF)
+
+[ 2016-10-26T21:40:36+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=definedItem
+ERR: syntax error, unexpected 'if' (T_IF)
+
+[ 2016-10-26T21:40:37+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=definedItem
+ERR: syntax error, unexpected 'if' (T_IF)
+
+[ 2016-10-26T23:27:35+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=sendMsgAll
+ERR: 无法加载控制器:Index
+

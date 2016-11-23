@@ -1,0 +1,12 @@
+[ 2016-10-27T11:54:20+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=definedItem
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+
+[ 2016-10-27T14:13:53+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=getWxAccessToken
+ERR: syntax error, unexpected '$_SESSION' (T_VARIABLE), expecting ',' or ';'
+
+[ 2016-10-27T14:13:54+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=getWxAccessToken
+ERR: syntax error, unexpected '$_SESSION' (T_VARIABLE), expecting ',' or ';'
+
+[ 2016-10-27T14:18:57+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=getWxAccessToken
+ERR: syntax error, unexpected 'S' (T_STRING)
+

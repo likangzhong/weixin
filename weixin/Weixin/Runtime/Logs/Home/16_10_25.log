@@ -1,0 +1,18 @@
+[ 2016-10-25T20:57:00+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=api
+ERR: 非法操作:api
+
+[ 2016-10-25T21:35:34+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=weather
+ERR: syntax error, unexpected '$indexModel' (T_VARIABLE)
+
+[ 2016-10-25T21:35:35+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=weather
+ERR: syntax error, unexpected '$indexModel' (T_VARIABLE)
+
+[ 2016-10-25T21:36:07+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=weather
+ERR: syntax error, unexpected '}'
+
+[ 2016-10-25T21:36:08+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=weather
+ERR: syntax error, unexpected '}'
+
+[ 2016-10-25T21:36:08+08:00 ] 113.64.73.109 /weixin/index.php?m=Home&c=Index&a=weather
+ERR: syntax error, unexpected '}'
+
